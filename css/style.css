@@ -3,10 +3,15 @@ body {
 	 font-size: 13px;
 	 font-family: "Josefin Sans";
 	 font-style: normal;
-	 font-weight: 400;
+	 font-weight: 500;
 }
 
-
+p.header{
+	letter-spacing: 12px
+}
+p.small{
+	letter-spacing: 7px;
+}
 p.weight1 {
 	 font-family: "Josefin Sans";
 	 font-weight: 100;
